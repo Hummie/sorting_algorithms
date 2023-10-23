@@ -2,6 +2,7 @@
 #define SORT_H
 
 #include <stddef.h>
+#include <stdio.h>
 
 /* structure for doubly linked list */
 /**
